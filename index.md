@@ -5,5 +5,16 @@
 ##### h5
 ###### h6
 
-## this os the new image
+## this is the new image
 ![image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## this is the code example:
+```
+$ git init
+Repocitorio de git vacio ubicado en lala lolo mimi
+```
+### other example:
+```
+javascript
+var myVar = "Hello, word"
+```
