@@ -18,3 +18,9 @@ Repocitorio de git vacio ubicado en lala lolo mimi
 javascript
 var myVar = "Hello, word"
 ```
+
+## Check list
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
